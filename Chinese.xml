@@ -8,9 +8,9 @@
       <TableName>Language_ZH_HANT_HK</TableName>
       <PluralRule>1</PluralRule>
       <UseExtendedFont>1</UseExtendedFont>
-      <FontName>SimHei</FontName>
-	  <FontWidthScale>0.4</FontWidthScale>
-	  <FontHeightScale>0.75</FontHeightScale>
+      <FontName>微軟正黑體</FontName>
+	  <FontWidthScale>0.36</FontWidthScale>
+	  <FontHeightScale>1</FontHeightScale>
     </Row>
   </Languages>
 </GameData>
